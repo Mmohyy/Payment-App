@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1666719399 source:d:\data\programming\fwd_es_pro\payment_app\main.c
+	"app.h"
+
+1666711173 source:d:\data\programming\fwd_es_pro\payment_app\server.c
+	"server.h"
+
+1666719441 source:d:\data\programming\fwd_es_pro\payment_app\terminal.c
+	"terminal.h"
+
+1666719413 source:d:\data\programming\fwd_es_pro\payment_app\card.c
+	"card.h"
+
+1666560419 d:\data\programming\fwd_es_pro\payment_app\card.h
+	<stddef.h>
+	<stdio.h>
+	<string.h>
+
+1666719471 d:\data\programming\fwd_es_pro\payment_app\server.h
+	"terminal.h"
+
+1666719452 d:\data\programming\fwd_es_pro\payment_app\terminal.h
+	"card.h"
+
+1666649213 source:d:\data\programming\fwd_es_pro\payment_app\app.c
+	"app.h"
+
+1666549953 d:\data\programming\fwd_es_pro\payment_app\app.h
+	<stdio.h>
+	"server.h"
+
